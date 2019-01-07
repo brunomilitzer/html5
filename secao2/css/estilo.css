@@ -1,0 +1,37 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+header, nav, section, footer {
+  width: 100%;
+}
+
+header {
+  height: 200px;
+  background: #ccc;
+  position: relative;
+}
+
+nav {
+  height: 100px;
+  background: #999;
+  position: absolute;
+  bottom: 0;
+}
+
+section {
+  height: 500px;
+  background: #576574;
+}
+
+footer {
+  height: 200px;
+  background: #01a3a4;
+}
+
+/*# sourceMappingURL=estilo.css.map */
